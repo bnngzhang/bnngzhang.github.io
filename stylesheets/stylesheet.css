@@ -47,5 +47,13 @@ html,body,h1,h3{
       			margin-left: 150px;
       			margin-right: 150px;
       		}
+
+		#proj1, #proj2 {
+			border-style: solid;
+			border-color: yellow;
+			float: left;
+			width: 49%;
+			height: 400px
+		}
       		
       		
