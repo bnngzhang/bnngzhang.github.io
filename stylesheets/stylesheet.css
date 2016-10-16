@@ -1,59 +1,53 @@
-html,body,h1,h3{
-      		height: 100%;
-  			padding:  0;
- 			border:  0;
- 			margin: 0;
-      		}
-      
-      		#context{
-      			background-color: #f2f2f2;
-      			width: 100%;
-      			height: 100%;
-      		}
-      		#header{
-      			background-color: black;	
-	   			height: 95px;		
-	  			font-size: 54px;
-				font-weight: 700;
-			    font-family: 'L	ucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
-			    margin: 0;
-				color: #fff;
-				text-shadow: #111 0px 0px 10px;
-				text-align: center;
-      			
-      		
-      		}
-      	    #footer{
-      	    	background-color: black;	
-     			color: #fff;
-				height: 45px;
-				font-size: 20px;
-				text-align: center;
-      	    } 		
-      		#leftcon{
-      			float: left;
-      			height: 500px;
-      			width: 150px;
-      		}
-      		#rightcon{
-      			float: right;
-      			height: 500px;
-      			width: 150px;
-      		}
-      		
-      		#maincon{
-      			border-style: solid;
-      			border-color: yellow;
-      			margin-left: 150px;
-      			margin-right: 150px;
-      		}
+html, body, h1, h3 {
+	height: 100%;
+	padding: 0;
+	border: 0;
+	margin: 0;
+}
 
-		#proj1, #proj2 {
-			border-style: solid;
-			border-color: yellow;
-			float: left;
-			width: 49%;
-			height: 400px
-		}
-      		
-      		
+#context {
+	background-color: #f2f2f2;
+	width: 100%;
+	height: 100%;
+}
+#header {
+	background-color: black;
+	height: 95px;
+	font-size: 54px;
+	font-weight: 700;
+	font-family: 'L	ucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+	margin: 0;
+	color: #fff;
+	text-shadow: #111 0px 0px 10px;
+	text-align: center;
+}
+#footer {
+	background-color: black;
+	color: #fff;
+	height: 45px;
+	font-size: 20px;
+	text-align: center;
+}
+#leftcon {
+	float: left;
+	height: 500px;
+	width: 150px;
+}
+#rightcon {
+	float: right;
+	height: 500px;
+	width: 150px;
+}
+
+#maincon {
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+#proj1, #proj2 {
+	border-style: solid;
+	border-color: yellow;
+	float: left;
+	width: 49%;
+	height: 400px
+}
